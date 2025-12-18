@@ -7,3 +7,6 @@ Resumo.
 ## Modo de xogo
 
 ## Historia
+
+### Personaxes
+
