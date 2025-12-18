@@ -10,3 +10,6 @@ Resumo.
 
 ### Personaxes
 
+#### Dr Slump
+
+O creador de Arale.
