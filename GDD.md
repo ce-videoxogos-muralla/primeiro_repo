@@ -10,6 +10,6 @@ Resumo.
 
 ### Personaxes
 
-#### Dr Slump
+#### Denji
 
-O creador de Arale.
+O home motoserra.
