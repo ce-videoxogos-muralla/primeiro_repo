@@ -10,6 +10,6 @@ Resumo.
 
 ### Personaxes
 
-#### Dr Slump
+#### Mestre Munteroi
 
-O creador de Arale.
+O mestre de Songoku.
