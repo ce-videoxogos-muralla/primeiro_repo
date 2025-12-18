@@ -10,6 +10,6 @@ Resumo.
 
 ### Personaxes
 
-#### Denji
+#### Mestre Munteroi
 
-O home motoserra.
+O mestre de Songoku.
