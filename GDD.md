@@ -13,3 +13,11 @@ Resumo.
 #### Mestre Munteroi
 
 O mestre de Songoku.
+
+#### Songoku
+
+O mellor.
+
+#### Vexeta
+
+O peor.
